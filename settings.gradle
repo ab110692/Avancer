@@ -1,0 +1,1 @@
+include ':app', ':mylibrary', ':br.com.avancertecnologia', ':br.com.avancertecnologia.idledrink'
