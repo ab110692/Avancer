@@ -4,8 +4,8 @@ import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import br.com.avancertecnologia.GUI.*;
 
-import br.com.avancertecnologia.GUI.PagerAdapter;
 
 public class IdleDrink extends AppCompatActivity {
 

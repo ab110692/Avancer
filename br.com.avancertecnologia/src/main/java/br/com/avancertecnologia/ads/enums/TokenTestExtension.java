@@ -1,7 +1,5 @@
 package br.com.avancertecnologia.ads.enums;
 
-import br.com.avancertecnologia.ads.enums.TokenTest;
-
 public class TokenTestExtension
 {
     public static String GetTokenTestADS(TokenTest tokenTest)
